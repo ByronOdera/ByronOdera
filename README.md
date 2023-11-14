@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ByronOdera
 - 👀 I’m interested in everything data from analysis to visualization.
--  I’m currently learning R 
+-  I’m currently working with R, SQL and Power Bi.
 -  I’m looking to collaborate on projects related to data; cleaning,analysis and visualization.
   
 
